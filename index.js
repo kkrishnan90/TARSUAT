@@ -15,9 +15,3 @@ app.listen(port, () => {
 });
 
 //OCI TOKEN: -.Rr6H_VRfAe29bxQARK
-
-//Weblogictrial
-//Namespace : bmjpwhqkc8lp
-//TenancyOCID : ocid1.tenancy.oc1..aaaaaaaaaripond5dwu2lscnvsgdgyagp2u4f4armcr4m43zndpujftzny3q
-//UserOCID : ocid1.user.oc1..aaaaaaaaeqlbivnb5gtxiwlu4slon7yu5ev6hlgflqsmcdvelswgb4mofuba
-//Compartment OCID : ocid1.tenancy.oc1..aaaaaaaaaripond5dwu2lscnvsgdgyagp2u4f4armcr4m43zndpujftzny3q
